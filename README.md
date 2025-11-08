@@ -24,7 +24,7 @@ Modelled a DC machine from scratch using matlab blocks.Defined parameters such a
 
 <img width="119" height="54" alt="image" src="https://github.com/user-attachments/assets/4b164ebd-661c-40ca-af39-b6f23d344eff" /> <br><br>
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/38f5513d-9106-42da-b7e9-3cf62d27c150" /><br><br>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/38f5513d-9106-42da-b7e9-3cf62d27c150" /><br><br>
 
 
 For more reference visit [Reference_Link](https://ctms.engin.umich.edu/CTMS/?example=MotorSpeed&section=SystemModeling)
