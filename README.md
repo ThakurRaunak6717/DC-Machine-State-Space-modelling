@@ -29,6 +29,8 @@ Modelled a DC machine from scratch using matlab blocks.Defined parameters such a
 
 For more reference visit [Reference_Link](https://ctms.engin.umich.edu/CTMS/?example=MotorSpeed&section=SystemModeling)
 
+ProjectLink [Github_Link](https://github.com/ThakurRaunak6717/DC-Machine-State-Space-modelling)
+
 
 
 
