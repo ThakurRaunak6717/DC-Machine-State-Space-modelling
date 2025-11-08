@@ -11,7 +11,7 @@ Modelled a DC machine from scratch using matlab blocks.Defined parameters such a
 
 
 
-<img width="400" height="225" alt="dcmotor" src="https://github.com/user-attachments/assets/7cf536eb-6eb8-4a6c-b98d-e38399626d24" /> <br>
+<img width="400" height="225" alt="dcmotor" src="https://github.com/user-attachments/assets/7cf536eb-6eb8-4a6c-b98d-e38399626d24" /> <br><br>
 
 
 <img width="320" height="50" alt="image" src="https://github.com/user-attachments/assets/835cee9f-f62a-4ee1-b668-4102f9a208a8" /> <br>
