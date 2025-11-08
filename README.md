@@ -1,8 +1,8 @@
 # DC-Machine-State-Space-modelling
 Modelled a DC machine from scratch using matlab blocks.Defined parameters such as armature resistance ,Inductance,Moment Of Inertia,obtained desired speed and torque response plots.
 
-(J)     moment of inertia of the rotor    = 0.01 kg.m^2
-(b)     motor viscous friction constant   = 0.1 N.m.s
+(J)     moment of inertia of the rotor    = 0.01 kg.m^2 <br>
+(b)     motor viscous friction constant   = 0.1 N.m.s <br>
 (Ke)    electromotive force constant      = 0.01 V/rad/sec
 (Kt)    motor torque constant             = 0.01 N.m/Amp
 (R)     electric resistance               = 1 Ohm
